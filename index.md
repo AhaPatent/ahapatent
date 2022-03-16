@@ -632,6 +632,21 @@ XCOR的创始人在美国国家航空航天局刚刚开放私人航天领域那�
 10，接入网络。孤立的创新者可以创造奇迹。
 ```
 
+### [纪录片《软件专利的荒谬性》](https://www.ruanyifeng.com/blog/2010/04/patent_absurdity.html)
+
+![image](https://user-images.githubusercontent.com/99159300/158503982-ec2b6e46-1f3f-4326-84f4-2f9193e74bbc.png)
+
+在谈片子之前，先说一个大家都知道的软件----winrar。
+它是压缩软件，使用特有的rar算法压缩文件。这种算法有专利，必须付费使用。
+于是，就有了一个令人困惑的问题。rar主要基于两个以色列科学家的数学论文，本身并不是一种全新算法。但是我们知道，数学公式是不可以申请专利的，那么凭什么把公式写成了算法，就可以申请专利呢？毕竟，算法本身并没有多少创造性，只是把公式改成机器码而已，真正有创造性的是数学模型。专利制度不去奖励创造性的大头，而去奖励小头，这是为什么呢？
+
+![image](https://user-images.githubusercontent.com/99159300/158504621-5ccd1d72-0dcd-49ea-a360-fd135c86c732.png)
+
+如果你对这个问题感兴趣，想要深入了解软件专利，那么我推荐你观看自由软件基金会FSF资助的纪录片[《软件专利的荒谬性》（Patent Absurdity）](http://patentabsurdity.com/)。
+上周，这部纪录片刚刚上线。官方网站提供[下载](http://patentabsurdity.com/download.html)，视频格式是ogv文件。你可以用[vlc播放器](https://www.videolan.org/vlc/)进行播放。
+
+![image](https://user-images.githubusercontent.com/99159300/158504188-de38daeb-a910-4b69-9c84-67d5c5355f34.png)
+
 ## 参考
 
 1. [2021年专利精选——奇思妙想](https://www.wipo.int/patents/zh/2021_patent_picks.html)

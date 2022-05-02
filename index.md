@@ -647,6 +647,9 @@ XCOR的创始人在美国国家航空航天局刚刚开放私人航天领域那�
 
 ![image](https://user-images.githubusercontent.com/99159300/158504188-de38daeb-a910-4b69-9c84-67d5c5355f34.png)
 
+![image](https://user-images.githubusercontent.com/99159300/166179936-6d201a14-3bb4-4960-a817-3bd4ac58ad83.png)
+> 科创板IPO之专利Q
+
 ## 参考
 
 1. [2021年专利精选——奇思妙想](https://www.wipo.int/patents/zh/2021_patent_picks.html)

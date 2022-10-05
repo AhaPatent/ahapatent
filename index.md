@@ -6,14 +6,7 @@
 ![image](https://user-images.githubusercontent.com/99159300/194009103-b6f0b459-f9e9-4e7c-850f-f25a18de77ea.png)
 > [专利](https://www.wipo.int/patents/zh/)是对发明授予的一种专有权利；发明是指提供新的做事方式或对某一问题提出新的技术解决方案的产品或方法。要取得专利，必须向公众公开发明的技术信息。
 
-![image](https://user-images.githubusercontent.com/99159300/156496337-2267e4a3-8518-4ada-8337-3ea715a351ad.png)
 > [“专利制度是给天才之火添加利益之油”——亚伯拉罕·林肯](http://jingji.cctv.com/2016/06/03/ARTI9FSbcsJJ7Ur0SaqoadCn160603.shtml)
-
-![image](https://user-images.githubusercontent.com/99159300/156545046-5187e1f0-0295-4721-8962-4ce92d2521ee.png)
-> [马斯克其实是在学习爱迪生而非特斯拉](https://www.dedao.cn/course/article?id=0kzlWERBr6meVbpDwX2j7LD4Od3ZpP&source=search)
-
-![image](https://user-images.githubusercontent.com/99159300/156541358-45b7aa7c-a7f3-432b-a3e7-6cc73ec8616f.png)
-> [荀子](https://baike.baidu.com/item/荀子/283)曰：“假舆马者，非利足也，而致千里；假舟楫者，非能水也，而绝江河。”
 
 ![image](https://user-images.githubusercontent.com/99159300/156547143-fa8c131a-7fd7-45eb-8509-8e048fac79b2.png)
 > [无论是利益，还是荣誉，都属于最后一个人。](https://www.dedao.cn/course/article?id=oezW9aA7r8pGX8No5VlY4jRMdvmbEO&source=search)，在创新这件事上，争先不重要，站在别人的肩膀上，整合一切因素，技术的、商业的、社会的、未来的、观念的等等一切因素，跑完最后一棒才重要。

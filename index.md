@@ -1,6 +1,9 @@
 # 啊哈，专利
 
-![image](https://user-images.githubusercontent.com/99159300/156490391-996a3e41-ceb1-4a3a-b1d2-1963bbf961f9.png)
+![image](https://user-images.githubusercontent.com/99159300/194008696-fe94de90-61d4-425b-94d6-37c6b6f01066.png)
+![image](https://user-images.githubusercontent.com/99159300/194009101-8d7f4fd1-7498-4904-b0c7-e715bda28df4.png)
+![image](https://user-images.githubusercontent.com/99159300/194009117-6e72e7c2-208f-4715-9f72-a90b95a420f8.png)
+![image](https://user-images.githubusercontent.com/99159300/194009103-b6f0b459-f9e9-4e7c-850f-f25a18de77ea.png)
 > [专利](https://www.wipo.int/patents/zh/)是对发明授予的一种专有权利；发明是指提供新的做事方式或对某一问题提出新的技术解决方案的产品或方法。要取得专利，必须向公众公开发明的技术信息。
 
 ![image](https://user-images.githubusercontent.com/99159300/156496337-2267e4a3-8518-4ada-8337-3ea715a351ad.png)
